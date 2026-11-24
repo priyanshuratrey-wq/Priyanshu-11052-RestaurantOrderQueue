@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🍽️ Restaurant Order Queue Management System
 
 A Java-based Restaurant Order Queue Management System that manages customer food orders using the Queue Data Structure.
@@ -169,3 +170,6 @@ Java | Data Structures | Queue Management
 If you find this project useful, please give this repository a ⭐ on GitHub!
 
 Made with ❤️ using Java
+=======
+# Priyanshu-11052-RestaurantOrderQueue
+>>>>>>> 49484e432505373757d200d3275f988b939bed3f
